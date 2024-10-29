@@ -1,0 +1,31 @@
+---
+title: "Data Analysis Tools"
+author: "Florian Faulstich"
+logo: https://www.wavecontactlenses.com/wp-content/uploads/2021/01/wave-logo.svg
+layout: wide
+format: 
+  revealjs:
+    title-slide-attributes: 
+      data-background-image: https://www.wavecontactlenses.com/wp-content/uploads/2021/01/wave-logo.svg
+      data-background-size: 73%
+      data-background-opacity: "0.073"
+    footer: "[wavecontactlenses.com](https://www.wavecontactlenses.com/)"
+    theme: dark
+    chalkboard: true
+    multiplex: true
+    incremental: true
+    smaller: true
+    transition: fade
+execute: 
+  freeze: auto
+  cache: true
+---
+
+# Hintergrund
+
+-   
+
+# Überblick
+
+-   Quarto
+-   
